@@ -1,3 +1,5 @@
+Modified by Art De Sun
+
 # JazzStandards
 This repository contains chord data for a large number of jazz standards (currently pulled from the iReal Pro database: https://www.irealpro.com/main-playlists).
 
